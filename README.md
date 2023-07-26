@@ -14,9 +14,7 @@ OpenVPN Server: https://github.com/angristan/openvpn-install
   ```
 </h2>
 
-<h2>
   ```
-  python3 ovpnLogin.py
+  ## python3 ovpnLogin.py
   ```
-</h2>
 
