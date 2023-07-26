@@ -12,9 +12,20 @@ OpenVPN Server: https://github.com/angristan/openvpn-install
   chmod +x openvpn-install.sh
   ./openvpn-install.sh
   ```
+
+Start the program:
+  ```
+  python3 ovpnLogin.py
+  ```
+
+  To run this program in the background:
+  ```
+  screen python3 ovpnLogin.py
+  ```
+
+  To let the program run in the background press **CTRL+AD**
+  
 </h2>
 
-  ```
-python3 ovpnLogin.py
-  ```
+
 
