@@ -10,5 +10,6 @@ OpenVPN Server: https://github.com/angristan/openvpn-install
   ```
 curl -O https://raw.githubusercontent.com/angristan/openvpn-install/master/openvpn-install.sh
 chmod +x openvpn-install.sh
+./openvpn-install.sh
   ```
 </h2>
