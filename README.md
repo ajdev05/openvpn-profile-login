@@ -6,10 +6,11 @@ This program written in Python allows users to track client logins on a server t
 OpenVPN Server: https://github.com/angristan/openvpn-install
 
   Install
-
-  ```
+</h2>
+<h3>
+    ```
 curl -O https://raw.githubusercontent.com/angristan/openvpn-install/master/openvpn-install.sh
 chmod +x openvpn-install.sh
 ./openvpn-install.sh
   ```
-</h2>
+</h3>
